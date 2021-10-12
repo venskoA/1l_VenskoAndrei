@@ -9,4 +9,7 @@ import Foundation
 
 print("Hello, World!")
 
+let a: Int = 10
+
+print(a)
 print(" End ")
